@@ -39,10 +39,9 @@ function Home() {
           </div>
 
           <h1>
-            Donde la elegancia
+            Espacios que se convierten
             <br />
-            encuentra
-            <em>tu hogar.</em>
+            <em>en hogar.</em>
           </h1>
 
           <p className="hl-hero-description">
